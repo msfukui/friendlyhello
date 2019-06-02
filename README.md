@@ -4,9 +4,15 @@ Docker's `Get Started` tutorial.
 
 ## Reference
 
+https://docs.docker.com/get-started/part1/
+
 https://docs.docker.com/get-started/part2/
 
 https://docs.docker.com/get-started/part3/
+
+https://docs.docker.com/get-started/part4/
+
+https://docs.docker.com/get-started/part5/
 
 ## Attentions
 
